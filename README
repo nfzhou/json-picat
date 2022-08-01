@@ -1,6 +1,6 @@
 json.pi:
 
-A significantly improved version is available here: https://github.com/nfzhou/json-picat
+A significantly improved version is available here: https://github.com/nfzhou/json
 
 a json encoder/decoder module for Picat.
 
